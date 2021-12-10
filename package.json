@@ -170,7 +170,7 @@
     "@relate-by-ui/relatable": "1.0.1",
     "@sentry/integrations": "^5.29.0",
     "@sentry/react": "^5.29.0",
-    "@sentry/tracing": "^5.27.0",
+    "@sentry/tracing": "^6.15.0",
     "antlr4": "^4.8.0",
     "apollo-upload-client": "^14.1.2",
     "ascii-data-table": "^2.1.1",
