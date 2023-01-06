@@ -187,7 +187,7 @@
     "jsonic": "^0.3.0",
     "jszip": "^3.2.2",
     "lodash-es": "^4.17.15",
-    "luxon": "^2.0.2",
+    "luxon": "^2.5.2",
     "memoize-one": "^5.2.1",
     "monaco-editor": "0.23.0",
     "neo4j-client-sso": "^1.0.2",
