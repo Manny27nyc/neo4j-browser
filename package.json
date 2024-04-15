@@ -176,7 +176,7 @@
     "ascii-data-table": "^2.1.1",
     "canvg": "^3.0.7",
     "core-js": "3",
-    "cypher-editor-support": "^1.1.8",
+    "cypher-editor-support": "^1.1.11",
     "cypress": "^8.3.1",
     "d3": "3",
     "deepmerge": "^2.1.1",
